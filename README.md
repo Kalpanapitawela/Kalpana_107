@@ -12,7 +12,7 @@ There are four pages.
 
 
 
-2.Login Page - here when you enter the username and password, it access the database and directs to the home page. It email and password dont match it gives error messages.
+2.Login Page - here when you enter the username and password, it access the database and after confirming it directs you to the home page. It email and password dont match it gives error messages.
                 url:http://localhost:5173/Login
 
 3.Homepage - this is the home page of the site.
